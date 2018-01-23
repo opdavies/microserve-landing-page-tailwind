@@ -1,0 +1,6 @@
+a { text-decoration: none }
+
+img { max-width: 100% }
+
+.pattern-dark { background-image: url(../images/patterns/light.png) }
+.pattern-light { background-image: url(../images/patterns/dark.png) }
